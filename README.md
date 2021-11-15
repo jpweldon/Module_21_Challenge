@@ -40,7 +40,9 @@ Review KaseiCoin.sol, KaseiCoinCrowdsale.sol, and the screenshots included in th
 
 Open the KaseiCoin.sol and KaseiCoinCrowdsale.sol files in the Remix IDE at (https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).
 
-Compile the smart contracts.
+Compile the KaseiCoin.sol smart contract.
+
+Compile the KaseiCoinCrowdsale.sol smart contract.
 
 Navigate to the “Deploy & Run Transactions” pane, and then make sure that “JavaScript VM” is selected as the environment.
 
