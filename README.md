@@ -54,9 +54,15 @@ Click the Deploy button to deploy the smart contracts.
 
 The screenshots of my work from each subsection of the Challenge assignment are included. The screenshots are also included in the Evaluation_Evidence folder.
 
+Screenshot following creation and compilation of the KaseiCoin Token Contract:
+
 ![ScreenShot_Create_the_KaseiCoin_Token_Contract](https://user-images.githubusercontent.com/85202691/141718477-fa70a1a1-ad36-4550-a613-68195498e3a6.png)
 
+Screenshot following creation and compilation of the KaseiCoin Crowdsale Contract:
+
 ![ScreenShot_Create_the_KaseiCoin_Crowdsale_Contract](https://user-images.githubusercontent.com/85202691/141718515-f9b850cb-1bd0-42d4-a70b-fee59b700d9f.png)
+
+Screenshot following creation and compilation of the KaseiCoin Deployer Contract:
 
 ![ScreenShot_Create_the_KaseiCoin_Deployer_Contract](https://user-images.githubusercontent.com/85202691/141718525-0cdb52e7-878c-4109-b506-f1820a5e6e39.png)
 
